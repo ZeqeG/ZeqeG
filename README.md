@@ -26,6 +26,4 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=light&show_icons=true&line_height=60&hide_title=true&hide_border=true&count_private=true&hide=prs&icon_color=049EE5&bg_color=FAFAFA" align="middle" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZeqeG&color=blue&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=light&show_icons=true&line_height=60&hide_title=true&hide_border=true&count_private=true&icon_color=049EE5&bg_color=FAFAFA" align="middle" />
