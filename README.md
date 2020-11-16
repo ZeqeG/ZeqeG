@@ -26,10 +26,8 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=light&show_icons=true&line_height=40" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=light&show_icons=true&line_height=40" align="middle" />
 
-[![ZeqeG's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeqeG&theme=light&hide_langs_below=4)](https://github.com/anuraghazra/github-readme-stats/)
-
-![Trophies!](https://github-profile-trophy.vercel.app/?username=ZeqeG&theme=light&row=1&column=7)
+![Trophies!](https://github-profile-trophy.vercel.app/?username=ZeqeG&theme=light&row=1&column=6)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZeqeG)
