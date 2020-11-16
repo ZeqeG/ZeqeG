@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Cinema 4D-000000?style=for-the-badge&logo=Cinema-4D"/>
 <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode"/>
  
- ### Version Control
+## Version Control
  
  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
