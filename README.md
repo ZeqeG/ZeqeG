@@ -30,4 +30,4 @@
 
 ![Trophies!](https://github-profile-trophy.vercel.app/?username=ZeqeG&theme=light&row=1&column=6)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ZeqeG)
+![Profile Views](https://komarev.com/ghpvc/?username=ZeqeG&color=blue&style=flat-square)
