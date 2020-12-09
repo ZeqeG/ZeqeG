@@ -26,4 +26,4 @@
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=dark&show_icons=true&custom_title=Stats&count_private=true&icon_color=58a6ff&bg_color=161b22&include_all_commits=true&hide_border=true" align="middle" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZeqeG&theme=dark&show_icons=true&custom_title=Stats&count_private=true&icon_color=58a6ff&bg_color=161b22&include_all_commits=true&hide_border=true&line_height=40" align="middle" />
